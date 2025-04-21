@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Mumbai, Maharashtra"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9326776637"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "shailendraprajapati640@gmail.com"
+    }
+  ]
